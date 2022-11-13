@@ -1,13 +1,3 @@
-- 👋 Hi, I’m Mihir
-- 👀 I’m interested in Problem Solving, Competitive Coding, Web Development and App Development
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on projects based on Web Development, App Development and Machine Learning
-- 📫 How to reach me, My LinkedIn profile: https://www.linkedin.com/in/mihir-chowdhury/
-
-<!---
-mhr1812/mhr1812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Mihir!</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -34,4 +24,3 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhr1812&show_icons=true&locale=en" alt="mhr1812" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhr1812&" alt="mhr1812" /></p>
-
