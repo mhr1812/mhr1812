@@ -8,6 +8,8 @@
 <br/>
 
 # 💫 About Me:
+🔭 My primary coding language: Python<br><br>
+🔭 Earned Gold badge & 5 star at HackerRank in Python programming.<br><br>
 🔭 I’m currently interested in Data Structures and Machine Learning<br><br>🌱 I’m currently learning React and Python<br><br>❓ Ask me about anything related to Data Structures and Machine Learning.<br><br>⚡ Fun fact: I am avid anime and kdrama lover.
 
 <br/>
@@ -24,6 +26,7 @@
 <br/>
 
 # 📊 GitHub Stats:
+![Visitor Count](https://profile-counter.glitch.me/{mhr1812}/count.svg)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=mhr1812&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mhr1812&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhr1812&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -32,4 +35,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<h2 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h2>
 
