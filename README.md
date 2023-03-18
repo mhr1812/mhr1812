@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 🔭 My primary coding language: Python<br><br>
-🔭 Earned Gold badge & 5 star at HackerRank in Python programming.<br><br>
+🔭 Earned Gold badge & 5 star at HackerRank in Python programming and SQL.<br><br>
 🔭 I have qualified GATE 2023 securing an AIR (All India Rank) 3661 with GATE score 476 <br><br>
 🔭 I’m currently interested in Data Structures and Machine Learning<br><br>🌱 I’m currently learning React and Python<br><br>❓ Ask me about anything related to Data Structures and Machine Learning.<br><br>⚡ Fun fact: I am avid anime and kdrama lover.
 
